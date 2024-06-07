@@ -69,7 +69,7 @@ csv_columns = [
     "Connection type", "Country Name", "Country Code", "Region", "City",
     "Postal Code", "Metro Code", "Area Code", "Latitude", "Longitude",
     "Anonymizing VPN", "Tor Exit Node", "Server", "Public Proxy", "Web Proxy",
-    "Search Engine Robot"
+    "Search Engine Robot", "State / Province", "District / County"
 ]
 
 try:
