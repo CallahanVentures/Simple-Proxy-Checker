@@ -1,4 +1,4 @@
-# Proxy Data Scraper
+# Simple Proxy Checker
 
 This simple script scrapes proxy data from Scamalytics and stores the results in a CSV file. It uses multiple threads for faster processing and random user agents to avoid being blocked by the target site.
 
